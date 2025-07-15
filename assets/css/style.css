@@ -1734,10 +1734,6 @@ body.lock {
     flex: 1 1 auto;
 }
 
-.contacts .section__text {
-    margin-bottom: 4rem;
-}
-
 .modal-overlay {
     position: fixed;
     left: 0;
