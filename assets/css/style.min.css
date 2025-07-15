@@ -1060,11 +1060,11 @@ body.lock {
 
 .section {
   position: relative;
-  padding: 19rem 0 5rem;
+  padding: 19rem 0 7rem;
 }
 @media (max-width: 991px) {
   .section {
-    padding: 15rem 0 5rem;
+    padding: 15rem 0 7rem;
   }
 }
 
