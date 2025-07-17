@@ -1134,6 +1134,12 @@ body.lock {
     padding: 19rem 0 7rem;
 }
 
+@media (max-width: 991px) {
+    .section {
+        padding: 15rem 0 7rem;
+    }
+}
+
 .section__background {
     position: absolute;
     width: 100%;
@@ -1566,8 +1572,6 @@ body.lock {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    -ms-flex-pack: center;
-    justify-content: center;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     align-items: center;

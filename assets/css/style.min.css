@@ -1060,7 +1060,7 @@ body.lock {
 
 .section {
   position: relative;
-  padding: 19rem 0 7rem;
+  padding: 18.5rem 0 5rem;
 }
 @media (max-width: 991px) {
   .section {
@@ -1108,6 +1108,13 @@ body.lock {
 
 .section__text {
   text-align: center;
+}
+.section__text p {
+  padding-bottom: 0.5rem;
+}
+.section__text a {
+  color: #DAA520;
+  text-decoration: none;
 }
 
 .section__body-menu {
